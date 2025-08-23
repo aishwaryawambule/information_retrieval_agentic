@@ -1,0 +1,932 @@
+{
+  "documents": [
+    {
+      "id": 1,
+      "category": "Health",
+      "text": "THC levels in cannabis have soared in recent years, raising the risk of psychosis—especially in young, frequent users. Studies reveal a strong connection between cannabis-induced psychosis and mental health complications in adolescents.",
+      "source": "ScienceDaily Health",
+      "url": "https://www.sciencedaily.com/news/top/health/",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 2,
+      "category": "Health",
+      "text": "New blood test shows over 90% accuracy for Lyme disease diagnosis, representing a major breakthrough in rapid detection and treatment of the tick-borne illness that affects thousands annually.",
+      "source": "Medscape",
+      "url": "https://www.medscape.com/",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 3,
+      "category": "Health",
+      "text": "AI-driven diagnostics integration in 2025 is playing an important role in analyzing medical data including blood tests, medical imaging, and medical history, leading to faster and more accurate diagnoses.",
+      "source": "MedPark Hospital",
+      "url": "https://www.medparkhospital.com/en-US/lifestyles/10-health-trends-of-2025",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 4,
+      "category": "Health",
+      "text": "World Health Assembly adopts resolution on skin diseases as a global public health priority, expressing unanimous commitment by Member States to address the burden of all conditions affecting the skin.",
+      "source": "WHO",
+      "url": "https://www.who.int/news/item/24-05-2025-seventy-eighth-world-health-assembly---daily-update--24-may-2025",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 5,
+      "category": "Health",
+      "text": "Aggressive blood pressure target of under 120 mm Hg can significantly reduce heart disease risk, researchers found. Despite more side effects and higher costs, the approach proved cost-effective.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/health_medicine/",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 6,
+      "category": "Health",
+      "text": "Declining childhood vaccination rates and potential new health leadership create conditions ripe for infectious disease transmission in 2025, health experts warn about measles and whooping cough outbreaks.",
+      "source": "U.S. News Health",
+      "url": "https://www.usnews.com/news/health-news/articles/2025-01-02/5-infectious-diseases-to-keep-an-eye-on-in-2025",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 7,
+      "category": "Health",
+      "text": "Modified walking style may relieve knee osteoarthritis pain and slow progression as effectively as commonly used medications, offering non-pharmaceutical treatment options for joint health.",
+      "source": "Medical News Today",
+      "url": "https://www.medicalnewstoday.com/news",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 8,
+      "category": "Health",
+      "text": "NIH-funded research supports addressing smoking cessation during substance use treatment, showing improved outcomes for patients with dual addictions and mental health disorders.",
+      "source": "National Institutes of Health",
+      "url": "https://www.nih.gov/news-events",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 9,
+      "category": "Health",
+      "text": "GLP-1 medications linked to increased eye disease risk in some studies, but recent analysis argues insufficient evidence exists to conclusively determine causation versus correlation.",
+      "source": "Medical News Today",
+      "url": "https://www.medicalnewstoday.com/news",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 10,
+      "category": "Health",
+      "text": "Three lifestyle changes for 2025 focus on brain, heart, and metabolic health through improved diet, sleep optimization, and targeted exercise routines based on latest medical research.",
+      "source": "Medical News Today",
+      "url": "https://www.medicalnewstoday.com/articles/brain-health-sleep-diet-3-health-resolutions-for-2025",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 11,
+      "category": "Business",
+      "text": "US stock market thrives after surviving hectic start to 2025 trading year. After falling 19% in weeks, the S&P 500 returns to record highs despite persistent unease about rally sustainability.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/yahoo-finance-chartbook-35-charts-tell-the-story-of-markets-and-the-economy-midway-through-2025-080012747.html",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 12,
+      "category": "Business",
+      "text": "Dow Jones jumps 800 points to record high as S&P 500 and Nasdaq soar following Fed Chair Powell's Jackson Hole speech fueling September rate cut expectations among investors.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-800-points-to-record-sp-500-nasdaq-soar-as-powells-jackson-hole-finale-fuels-bets-on-september-rate-cut-200110990.html",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 13,
+      "category": "Business",
+      "text": "Stocks surge reversing week of losses with Dow Industrial Average reaching record while bond yields fall as markets respond to Federal Reserve policy signals and economic indicators.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-21/stock-market-today-dow-s-p-live-updates",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 14,
+      "category": "Business",
+      "text": "Federal Reserve policy adjustment timing becomes market focus as Powell indicates 'time has come for policy to adjust' following three rate cuts bringing benchmark lending rate down one percentage point.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/17/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 15,
+      "category": "Business",
+      "text": "Dollar maintains dominance but US policy changes make it less special as investors and central banks consider holding more diverse currency portfolios, reducing American geopolitical leverage.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 16,
+      "category": "Business",
+      "text": "Blistering stock run hits wall as inflation pickup lifts bond yields alongside dollar, with traders reassessing market conditions amid changing economic fundamentals and Fed policy expectations.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-13/stock-market-today-dow-s-p-live-updates",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 17,
+      "category": "Business",
+      "text": "Mexican President Claudia Sheinbaum's representative Altagracia Gómez Sierra reaches out to business community seeking collaboration and investment opportunities in changing political landscape.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 18,
+      "category": "Business",
+      "text": "Fiscal 2025 adjusted earnings per share expected to range from $4.20 to $4.35, revised upward from previous forecast of $4.10 to $4.30, reflecting stronger than expected corporate performance.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-800-points-to-record-sp-500-nasdaq-soar-as-powells-jackson-hole-finale-fuels-bets-on-september-rate-cut-200110990.html",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 19,
+      "category": "Business",
+      "text": "International market data and portfolio management resources become increasingly important as global financial integration accelerates and investors seek diversified international exposure.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 20,
+      "category": "Business",
+      "text": "Wall Street interest rates and banking sector developments continue influencing company valuations and financial market stability as economic conditions evolve throughout 2025.",
+      "source": "NPR Business",
+      "url": "https://www.npr.org/sections/business/",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 21,
+      "category": "Politics",
+      "text": "California and Texas, the country's two most populous states, move closer to redrawing congressional districts in political fight sparked by President Trump's administrative policies.",
+      "source": "NPR Politics",
+      "url": "https://www.npr.org/sections/politics/",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 22,
+      "category": "Politics",
+      "text": "Republican National Committee elects Trump-backed Joe Gruters as new chair as party reorganizes leadership structure and prepares for upcoming electoral cycles and policy initiatives.",
+      "source": "CNN Politics",
+      "url": "https://www.cnn.com/politics",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 23,
+      "category": "Politics",
+      "text": "Defense Secretary Hegseth orders National Guard troops in DC to carry weapons amid heightened security concerns and changing protocols for military personnel deployment in capital region.",
+      "source": "CNN Politics",
+      "url": "https://www.cnn.com/politics",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 24,
+      "category": "Politics",
+      "text": "Canadian federal election required by law before October 25, 2025, could come sooner as Liberal government loses formal New Democratic Party support, creating potential no-confidence scenario.",
+      "source": "GZERO Media",
+      "url": "https://www.gzeromedia.com/news/analysis/10-elections-to-watch-in-2025",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 25,
+      "category": "Politics",
+      "text": "Trump administration uses executive actions and public threats to influence future election safeguarding efforts, implementing aspects of Project 2025 agenda through administrative policies.",
+      "source": "Brennan Center for Justice",
+      "url": "https://www.brennancenter.org/our-work/analysis-opinion/whats-next-elections-under-project-2025-agenda",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 26,
+      "category": "Politics",
+      "text": "Latino voters who helped deliver White House to President Trump express concerns about Republican policies, with many indicating they won't vote Republican in upcoming elections.",
+      "source": "NPR Elections",
+      "url": "https://www.npr.org/sections/elections/",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 27,
+      "category": "Politics",
+      "text": "Georgia Public Service Commission special election scheduled after 2024 postponement, with two members to be elected as state continues addressing infrastructure and utility regulation needs.",
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2025_United_States_elections",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 28,
+      "category": "Politics",
+      "text": "New Jersey Legislature lower house elections scheduled for 2025 as state prepares for important legislative contests that could influence policy direction and party control.",
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2025_United_States_elections",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 29,
+      "category": "Politics",
+      "text": "Trump official indicates DOJ personnel will not be 'bullied' into resigning despite administrative pressure, highlighting tensions between political appointees and career civil servants.",
+      "source": "CNBC Politics",
+      "url": "https://www.cnbc.com/politics/",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 30,
+      "category": "Politics",
+      "text": "President Trump has acquired more than $100 million in bonds since taking office, raising questions about financial arrangements and potential conflicts of interest in business dealings.",
+      "source": "CNBC Politics",
+      "url": "https://www.cnbc.com/politics/",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 31,
+      "category": "Health",
+      "text": "Teenage caffeine pouch trend concerns US health experts as social media influencers promote high-caffeine products to young gym-goers, potentially causing cardiovascular complications in adolescents.",
+      "source": "BBC Health",
+      "url": "https://www.bbc.co.uk/news/health",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 32,
+      "category": "Health",
+      "text": "Former nurse loses legal challenge over private gender clinic regulations, highlighting ongoing debates about healthcare standards and patient safety in specialized medical facilities.",
+      "source": "BBC Health",
+      "url": "https://www.bbc.co.uk/news/health",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 33,
+      "category": "Health",
+      "text": "Major healthcare equipment firm faces potential failure, threatening hospital supply chains and medical device availability across healthcare systems nationwide.",
+      "source": "BBC Health",
+      "url": "https://www.bbc.co.uk/news/health",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 34,
+      "category": "Health",
+      "text": "E.coli infections rise due to salad leaf outbreaks across multiple regions, with health authorities identifying contaminated irrigation systems as primary source of bacterial contamination.",
+      "source": "BBC Health",
+      "url": "https://www.bbc.co.uk/news/health",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 35,
+      "category": "Health",
+      "text": "Patient with rare neurological condition reports very low quality of life after stopping life-saving medication due to NHS funding disputes and bureaucratic delays.",
+      "source": "BBC Health",
+      "url": "https://www.bbc.co.uk/news/health",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 36,
+      "category": "Business",
+      "text": "Eli Lilly earnings show strong pharmaceutical sector performance driven by new drug approvals and expanded market access, with diabetes and obesity medications showing exceptional growth.",
+      "source": "CNBC Healthcare",
+      "url": "https://www.cnbc.com/healthcare/",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 37,
+      "category": "Business",
+      "text": "Moderna cuts high end of 2025 revenue outlook on vaccine shipment delays in UK market due to regulatory approval processes and supply chain complications.",
+      "source": "CNBC Healthcare",
+      "url": "https://www.cnbc.com/healthcare/",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 38,
+      "category": "Health",
+      "text": "Breakthrough gene therapy treatment shows 85% success rate in clinical trials for inherited blindness, offering hope to thousands of patients with previously untreatable genetic eye disorders.",
+      "source": "Medical Research Journal",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 39,
+      "category": "Health",
+      "text": "New Alzheimer's drug demonstrates ability to slow cognitive decline by 40% in early-stage patients, marking significant advancement in neurodegenerative disease treatment approaches.",
+      "source": "Neurology Today",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 40,
+      "category": "Health",
+      "text": "Wearable health monitors now capable of detecting irregular heartbeats with 95% accuracy, enabling early intervention for cardiac conditions before symptoms become severe.",
+      "source": "Digital Health News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 41,
+      "category": "Health",
+      "text": "Obesity rates among children continue rising despite prevention programs, with environmental factors and food accessibility identified as primary contributors to the epidemic.",
+      "source": "Public Health Reports",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 42,
+      "category": "Health",
+      "text": "Mental health services experience record demand as post-pandemic effects persist, with waiting times for therapy and counseling services extending beyond six months in many regions.",
+      "source": "Mental Health Today",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 43,
+      "category": "Health",
+      "text": "Antibiotic-resistant bacterial infections increase by 15% this year, prompting calls for stricter prescription guidelines and development of alternative treatment methods.",
+      "source": "Infectious Disease Weekly",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 44,
+      "category": "Health",
+      "text": "Telehealth adoption remains high with 60% of patients preferring remote consultations for routine care, transforming traditional healthcare delivery models permanently.",
+      "source": "Healthcare Innovation",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 45,
+      "category": "Health",
+      "text": "Cancer screening programs detect tumors 20% earlier using AI-assisted imaging technology, significantly improving survival rates for breast, lung, and colon cancers.",
+      "source": "Oncology Review",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 46,
+      "category": "Health",
+      "text": "Vitamin D deficiency affects 60% of adults in northern climates, linked to increased rates of depression, bone disorders, and compromised immune system function.",
+      "source": "Nutrition Science",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 47,
+      "category": "Health",
+      "text": "Personalized medicine approaches using genetic profiling show promise for treating rare diseases affecting fewer than 200,000 people worldwide, offering targeted therapeutic options.",
+      "source": "Rare Disease Today",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 48,
+      "category": "Health",
+      "text": "Hospital readmission rates drop 25% after implementing enhanced discharge planning protocols and 48-hour follow-up programs for high-risk patients.",
+      "source": "Hospital Management",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 49,
+      "category": "Health",
+      "text": "Sleep disorders affect 30% of working adults, with shift workers and healthcare professionals experiencing highest rates of chronic insomnia and sleep apnea.",
+      "source": "Sleep Medicine Journal",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 50,
+      "category": "Health",
+      "text": "Robotic surgery systems achieve 99% precision rates for complex procedures, reducing patient recovery times by 40% and minimizing surgical complications significantly.",
+      "source": "Surgical Technology",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 51,
+      "category": "Business",
+      "text": "Technology sector layoffs affect 150,000 workers as companies restructure operations amid economic uncertainty and reduced consumer demand for digital services.",
+      "source": "Tech Industry News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 52,
+      "category": "Business",
+      "text": "Cryptocurrency market volatility continues with Bitcoin fluctuating 25% weekly, influenced by regulatory announcements and institutional investment decisions worldwide.",
+      "source": "Crypto Finance",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 53,
+      "category": "Business",
+      "text": "Electric vehicle sales surge 80% year-over-year as battery technology improves and charging infrastructure expands, with Tesla maintaining market leadership position.",
+      "source": "Automotive Business",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 54,
+      "category": "Business",
+      "text": "Commercial real estate values decline 30% in major metropolitan areas as remote work policies permanently alter office space demand and urban development patterns.",
+      "source": "Real Estate Weekly",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 55,
+      "category": "Business",
+      "text": "Supply chain disruptions ease as companies diversify sourcing strategies and invest in domestic manufacturing capabilities, reducing dependency on single-country suppliers.",
+      "source": "Supply Chain Management",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 56,
+      "category": "Business",
+      "text": "Inflation rates stabilize at 3.2% as central banks maintain cautious monetary policies while balancing economic growth concerns with price stability objectives.",
+      "source": "Economic Indicators",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 57,
+      "category": "Business",
+      "text": "Green energy investments reach $500 billion globally as corporations commit to carbon neutrality goals and governments provide renewable energy development incentives.",
+      "source": "Energy Finance",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 58,
+      "category": "Business",
+      "text": "Small business confidence improves as access to capital increases and consumer spending patterns normalize following pandemic-related economic disruptions and uncertainty.",
+      "source": "Small Business Journal",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 59,
+      "category": "Business",
+      "text": "Artificial intelligence adoption accelerates across industries with 75% of companies implementing AI-powered solutions for customer service, data analysis, and operational efficiency.",
+      "source": "AI Business Review",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 60,
+      "category": "Business",
+      "text": "Labor shortages persist in healthcare and manufacturing sectors despite wage increases, prompting companies to invest heavily in automation and worker training programs.",
+      "source": "Labor Economics",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 61,
+      "category": "Politics",
+      "text": "Congressional approval ratings hit historic lows at 12% as partisan gridlock prevents passage of major infrastructure and healthcare legislation despite bipartisan public support.",
+      "source": "Political Polling",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 62,
+      "category": "Politics",
+      "text": "State-level voting rights legislation varies dramatically across regions, with 15 states expanding access while 10 states implement stricter identification and registration requirements.",
+      "source": "Election Law Review",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 63,
+      "category": "Politics",
+      "text": "Supreme Court considers landmark case on social media regulation, potentially establishing precedent for government oversight of digital platforms and free speech online.",
+      "source": "Constitutional Law",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 64,
+      "category": "Politics",
+      "text": "Immigration policy reforms stall in Senate as competing proposals address border security, pathways to citizenship, and temporary worker programs amid continuing political debate.",
+      "source": "Immigration Policy",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 65,
+      "category": "Politics",
+      "text": "Local elections see increased voter turnout among younger demographics, with climate change and housing affordability emerging as top priority issues for municipal candidates.",
+      "source": "Local Politics",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 66,
+      "category": "Politics",
+      "text": "Campaign finance regulations face constitutional challenges as political action committees explore new funding mechanisms and disclosure requirements vary by jurisdiction.",
+      "source": "Campaign Finance",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 67,
+      "category": "Politics",
+      "text": "International trade agreements undergo renegotiation as geopolitical tensions influence economic partnerships and tariff structures between major world economies.",
+      "source": "Trade Policy",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 68,
+      "category": "Politics",
+      "text": "Climate change legislation advances in state legislatures with carbon pricing mechanisms and renewable energy mandates gaining support from business and environmental coalitions.",
+      "source": "Environmental Policy",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 69,
+      "category": "Politics",
+      "text": "Cybersecurity becomes national security priority as foreign interference attempts increase during election cycles, prompting enhanced digital infrastructure protection measures.",
+      "source": "National Security",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 70,
+      "category": "Politics",
+      "text": "Judicial appointments remain contentious as federal court vacancies impact case backlogs and legal precedent establishment across constitutional and administrative law domains.",
+      "source": "Judicial Affairs",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 71,
+      "category": "Health",
+      "text": "Breakthrough immunotherapy treatment achieves 70% remission rate in late-stage pancreatic cancer patients, offering new hope for one of the most aggressive cancer types.",
+      "source": "Cancer Research Institute",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 72,
+      "category": "Health",
+      "text": "Digital therapeutics platforms demonstrate effectiveness in managing chronic pain, depression, and PTSD through personalized treatment algorithms and continuous monitoring.",
+      "source": "Digital Medicine",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 73,
+      "category": "Health",
+      "text": "Maternal mortality rates decline 20% following implementation of comprehensive prenatal care programs and improved access to obstetric specialists in rural areas.",
+      "source": "Maternal Health Journal",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 74,
+      "category": "Health",
+      "text": "Organ transplant waiting lists decrease as 3D bioprinting technology advances, with successful trials of laboratory-grown tissues for kidney and liver replacement.",
+      "source": "Transplant Medicine",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 75,
+      "category": "Health",
+      "text": "Food allergy treatments using oral immunotherapy show 90% success rate in desensitizing patients to peanuts, milk, and egg proteins through gradual exposure protocols.",
+      "source": "Allergy & Immunology",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 76,
+      "category": "Business",
+      "text": "Renewable energy sector creates 2 million jobs as solar and wind installations accelerate, driving economic growth in rural communities and industrial manufacturing.",
+      "source": "Green Jobs Report",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 77,
+      "category": "Politics",
+      "text": "US President outlines new economic plan ahead of 2026 midterm elections, focusing on domestic manufacturing and technology jobs.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 78,
+      "category": "Politics",
+      "text": "UK government faces parliamentary scrutiny over proposed changes to the National Health Service (NHS) funding model.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 79,
+      "category": "Politics",
+      "text": "EU regulators finalize landmark AI Accountability Act, setting a global precedent for artificial intelligence governance and ethics.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 80,
+      "category": "Politics",
+      "text": "Tensions rise in the South China Sea as new satellite imagery reveals further military installations on disputed islands.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 81,
+      "category": "Business",
+      "text": "Global markets react cautiously as the US Federal Reserve signals potential for one more interest rate hike in late 2025.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 82,
+      "category": "Business",
+      "text": "Leading automakers announce a joint venture to build a standardized EV charging network across North America by 2030.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 83,
+      "category": "Business",
+      "text": "A new generation of AI models shows unprecedented capabilities in scientific research, accelerating drug discovery and materials science.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 84,
+      "category": "Health",
+      "text": "NHS rolls out AI-powered screening for early-stage lung cancer nationwide, aiming to significantly improve patient survival rates.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 85,
+      "category": "Health",
+      "text": "WHO warns of a potential surge in mosquito-borne illnesses in Southern Europe following record-breaking summer heatwaves.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 86,
+      "category": "Health",
+      "text": "Scientists report a major breakthrough in personalized cancer vaccines using mRNA technology, showing high efficacy in Phase 3 trials.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 87,
+      "category": "Politics",
+      "text": "G7 leaders hold emergency meeting on global food security as climate change impacts crop yields in key agricultural regions.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 88,
+      "category": "Politics",
+      "text": "White House announces major diplomatic and investment push in Africa to counter growing influence from China and Russia.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 89,
+      "category": "Business",
+      "text": "Commercial real estate vacancies in major global cities hit a 15-year high as hybrid work models become permanently entrenched.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 90,
+      "category": "Business",
+      "text": "US Justice Department files a landmark antitrust lawsuit against a major tech conglomerate over its dominance in cloud computing.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 91,
+      "category": "Health",
+      "text": "FDA grants full approval for the first-ever gene-editing therapy for sickle cell anemia, offering a potential cure for the disease.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 92,
+      "category": "Health",
+      "text": "A comprehensive new study finds a strong link between ultra-processed food consumption and accelerated cognitive decline in adults.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 93,
+      "category": "Politics",
+      "text": "UN report warns of an escalating water scarcity crisis in the Middle East and North Africa, calling for urgent international action.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 94,
+      "category": "Politics",
+      "text": "Indian Prime Minister unveils a massive infrastructure project aimed at providing high-speed satellite internet to rural communities.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 95,
+      "category": "Business",
+      "text": "Green hydrogen production costs fall faster than expected, accelerating the shift from fossil fuels in shipping and heavy industry.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 96,
+      "category": "Health",
+      "text": "US Surgeon General issues a new advisory on the youth mental health crisis, urging schools to implement mandatory wellness programs.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 97,
+      "category": "Politics",
+      "text": "Cybersecurity dominates NATO discussions as member states report a coordinated surge in ransomware attacks on critical infrastructure.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 98,
+      "category": "Health",
+      "text": "Global health fund announces a new multi-billion dollar initiative to combat the growing threat of antibiotic-resistant superbugs.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 99,
+      "category": "Business",
+      "text": "Emerging markets in Southeast Asia become hotspots for venture capital, with a focus on fintech and sustainable agriculture startups.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 100,
+      "category": "Business",
+      "text": "Pharmaceutical giant's stock soars after its experimental Alzheimer's drug shows significant slowing of cognitive decline in final trials.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 101,
+      "category": "Politics",
+      "text": "Brazil's president announces stricter enforcement and new protected zones in the Amazon, leading to a sharp drop in deforestation rates.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 102,
+      "category": "Health",
+      "text": "A new generation of wearable tech can now accurately monitor blood glucose levels without needles, revolutionizing diabetes care.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 103,
+      "category": "Health",
+      "text": "UK researchers develop a new rapid diagnostic test for sepsis that can deliver results in under 15 minutes, a potential lifesaver.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 104,
+      "category": "Business",
+      "text": "Global tourism fully rebounds to pre-pandemic levels, but new data shows a significant shift toward eco-friendly and sustainable travel.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 105,
+      "category": "Business",
+      "text": "SpaceX successfully launches the first crewed mission to its commercial 'Starlab' space station, marking a new era in private space exploration.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 106,
+      "category": "Politics",
+      "text": "The German coalition government faces internal division over the timeline for phasing out natural gas in its energy transition plan.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 107,
+      "category": "Health",
+      "text": "Long COVID research uncovers new biomarkers that could finally lead to targeted treatments for patients with persistent symptoms.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 108,
+      "category": "Business",
+      "text": "The 'Quiet Thriving' workplace trend sees employees prioritizing continuous skill development over traditional promotions, reshaping corporate culture.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 109,
+      "category": "Health",
+      "text": "A universal flu vaccine candidate shows broad protection against multiple strains in large-scale human trials, promising an end to annual shots.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 110,
+      "category": "Politics",
+      "text": "Post-Brexit trade data for Q2 2025 shows UK service sector exports to the EU have fallen by 8% compared to pre-Brexit levels.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 111,
+      "category": "Business",
+      "text": "Global shipping industry struggles to adapt to strict new emissions regulations, leading to a 15% increase in container freight costs.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 112,
+      "category": "Politics",
+      "text": "African Union launches a single digital currency pilot program across five member nations to boost intra-continental trade.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 113,
+      "category": "Health",
+      "text": "Mental health crisis among healthcare workers continues, with a new survey revealing burnout rates are at an all-time high.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 114,
+      "category": "Business",
+      "text": "UK's financial sector sees record investment in fintech, but industry leaders warn of a growing skills gap in AI and cybersecurity.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 115,
+      "category": "Politics",
+      "text": "Japan's parliament passes a controversial new defense bill allowing for greater preemptive capabilities amid regional tensions.",
+      "source": "CNN",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    },
+    {
+      "id": 116,
+      "category": "Health",
+      "text": "A new WHO report highlights significant and widening disparities in healthcare access between urban and rural communities across G20 nations.",
+      "source": "BBC News",
+      "url": "sample",
+      "date_collected": "2025-08-23"
+    }
+  ]
+}
