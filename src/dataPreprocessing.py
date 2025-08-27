@@ -204,7 +204,7 @@ class FeatureExtractor:
         """
         features = self.vectorizer.fit_transform(texts)
         self.is_fitted = True
-        return features.toarray()
+        return features.toarray() # type: ignore
     
     def transform(self, texts: List[str]) -> np.ndarray:
         """
@@ -220,7 +220,7 @@ class FeatureExtractor:
             raise ValueError("Vectorizer must be fitted before transform")
         
         features = self.vectorizer.transform(texts)
-        return features.toarray()
+        return features.toarray() # type: ignore
     
     def get_feature_names(self) -> List[str]:
         """

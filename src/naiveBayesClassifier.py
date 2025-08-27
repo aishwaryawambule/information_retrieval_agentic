@@ -52,7 +52,7 @@ class MultinomialNaiveBayes:
         print(f"fit called")
         # Handle string labels by converting to indices
         if isinstance(y[0], str):
-            unique_labels = sorted(list(set(y)))
+            unique_labels = sorted(list(set(y))) # type: ignore
             self.label_to_idx = {label: idx for idx, label in enumerate(unique_labels)}
             self.idx_to_label = {idx: label for label, idx in self.label_to_idx.items()}
             y_encoded = np.array([self.label_to_idx[label] for label in y])
